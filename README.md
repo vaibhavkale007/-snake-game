@@ -1,4 +1,3 @@
-# snake-game
+# my name
 
-# name
-vaibhav kale
+add my name update change
